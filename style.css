@@ -2,8 +2,8 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: #02001a;
-  color: #d5ddff;
+  background: #000320;
+  color: #ffffff;
   line-height: 1.6;
   scroll-behavior: smooth;
 }
@@ -24,7 +24,7 @@ header h1 {
 
 header p {
   margin: 5px 0 15px;
-  color: #d5ddff
+  color: #ffffff
 }
 
 
@@ -50,14 +50,14 @@ section {
 
 
 h2 {
-  color: #000c79;
+  color: #ffffff;
   font-size: 30px;
   margin-bottom: 25px;
 }
 
 
 p {
-  color: #c7d2fe;
+  color: #ffffff;
   margin-bottom: 15px;
 }
 
@@ -81,7 +81,7 @@ p {
   display: inline-block;
   padding: 10px 15px;
   background: #003d00;
-  color: #c7d2fe;
+  color: #ffffff;
   font-weight: bold;
   border-radius: 6px;
   text-decoration: none;
@@ -139,7 +139,7 @@ footer {
   padding: 20px;
   background: #00021bbd;
   font-size: 14px;
-  color: #c7d2fe;
+  color: #ffffff;
   box-shadow: 0 -4px 10px #000a2980;
 }
 
@@ -170,7 +170,6 @@ footer {
 }
 
 
-/* Modal */
 .modal {
   display: none;
   position: fixed;
@@ -202,13 +201,13 @@ footer {
   position: absolute;
   top: 20px;
   right: 30px;
-  color: #c7d2fe(255, 255, 255);
+  color: #ffffff;
   font-size: 30px;
   cursor: pointer;
   z-index: 1010;
 }
 #certificacoes h2 {
-  color: #000c79; /* azul vibrante */
+  color: #ffffff; 
   font-weight: 700;
   margin-bottom: 15px;
   font-family: Arial, sans-serif;
@@ -221,8 +220,8 @@ footer {
 }
 
 .certificacoes {
-  background-color: #060055;  /* azul escuro */
-  color: #c7d2fe;             /* azul claro */
+  background-color: #060055;  
+  color: #ffffff;             
   padding: 6px 14px;
   border-radius: 20px;
   font-size: 14px;
